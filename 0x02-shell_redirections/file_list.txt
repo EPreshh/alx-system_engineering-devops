@@ -3,3 +3,7 @@ orange
 banana
 pawpaw
 apple
+mango
+apple
+banana
+pear

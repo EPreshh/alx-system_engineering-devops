@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -la > ls_cwd_content
+if [[ -f ls_cwd_content ]]; then ls -la > ls_cwd_content;fi
